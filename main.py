@@ -5,7 +5,7 @@ import sys
 
 path = "/".join(sys.argv[0].split("\\")[:-1])+"/"
 
-st.set_page_config(page_title="世界人口数据可视化", layout="wide")
+st.set_page_config(page_title="finalproject_team53)", layout="wide")
 
 hide_streamlit_style = """
 <style>
